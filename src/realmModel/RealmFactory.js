@@ -1,6 +1,7 @@
 export const CauseName = "Cause"
 export const UserName = "User"
 export const DealObjectName = "Deal"
+import Realm from 'realm'
 
 export const CauseSchema = {
     name: CauseName,
