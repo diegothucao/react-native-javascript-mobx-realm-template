@@ -2,7 +2,7 @@
 This is an essential example to build react-native app using Javascript, Mobx and Realm
 
 1. Clone the [repo](https://github.com/diegothucao/react-native-javascript-mobx-realm-template)
-2. `yarn install` OR `npm install` (Please check node version support for realm [Realm-JS](https://realm.io/docs/javascript/latest/#getting-started))
+2. `yarn install` OR `npm install` (Please check Node version support for realm [Realm-JS](https://realm.io/docs/javascript/latest/#getting-started))
 3. `react-native eject`
 4. `react-native link realm`
 5. `react-native run-ios` OR `react-native run-android`
