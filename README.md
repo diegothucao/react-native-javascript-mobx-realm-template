@@ -1,4 +1,4 @@
-# react-native-javascript-mobx-realm-example
+# React Native, Javascript, Mobx and Realm
 This is an essential example to build react-native app using Javascript, Mobx and Realm
 
 1. Clone the [repo](https://github.com/diegothucao/react-native-javascript-mobx-realm-template)
